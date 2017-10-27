@@ -1,1 +1,1 @@
-print ("Welcomr to python3")
+print ("Welcome to python3")
